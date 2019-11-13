@@ -1,0 +1,5 @@
+# CAEN
+Host bryanbow
+  HostName login.engin.umich.edu
+  User bryanbow
+  Compression yes
